@@ -50,3 +50,25 @@ This version provides a more modern notification-style toast popup that slides i
 1. Clone the repository:
 ```bash
 git clone https://github.com/Stephen-Garry-Git/Pop-Up.git
+
+## 📚 What I Learned
+How to trigger dynamic UI elements with JavaScript.
+
+CSS positioning techniques (fixed, absolute, centered flexbox).
+
+How to use keyframe animations for modern UI transitions.
+
+The importance of separating styles and logic cleanly.
+
+
+## 💡 Inspiration
+Pop-ups and toast notifications are essential in UI/UX for alerts, confirmations, or non-intrusive messages. These are commonly used in mobile and web apps (e.g., WhatsApp, Twitter, YouTube) for feedback messages.
+
+## ✅ Status
+✅ Both versions are complete
+🚀 Mobile-responsive
+💾 No dependencies (vanilla HTML, CSS, JS)
+
+## ©️ Author
+Stephen Garry
+LinkedIn | GitHub
